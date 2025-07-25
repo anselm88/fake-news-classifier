@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anselm/Desktop/fake-news-classifier/src/mlruns/0/e9eb04f1eeb94182a3db1d1d24aca340/artifacts
+end_time: 1753472916701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9eb04f1eeb94182a3db1d1d24aca340
+run_name: traveling-chimp-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753472902651
+status: 3
+tags: []
+user_id: anselm

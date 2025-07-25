@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anselm/Desktop/fake-news-classifier/src/mlruns/0/3517c21d435f4cb39e8258169bacb752/artifacts
+end_time: 1753473074921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3517c21d435f4cb39e8258169bacb752
+run_name: vaunted-duck-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753473061144
+status: 3
+tags: []
+user_id: anselm

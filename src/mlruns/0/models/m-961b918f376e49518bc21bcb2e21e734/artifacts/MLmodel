@@ -1,0 +1,22 @@
+artifact_path: file:///Users/anselm/Desktop/fake-news-classifier/src/mlruns/0/models/m-961b918f376e49518bc21bcb2e21e734/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.18
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-961b918f376e49518bc21bcb2e21e734
+model_size_bytes: 22805076
+model_uuid: m-961b918f376e49518bc21bcb2e21e734
+prompts: null
+run_id: e9eb04f1eeb94182a3db1d1d24aca340
+utc_time_created: '2025-07-25 19:48:31.031451'

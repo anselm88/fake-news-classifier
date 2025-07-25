@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anselm/Desktop/fake-news-classifier/src/mlruns/0/b9021f034b554c14a0514695096b1cdb/artifacts
+end_time: 1753473151144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9021f034b554c14a0514695096b1cdb
+run_name: youthful-finch-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753473137019
+status: 3
+tags: []
+user_id: anselm

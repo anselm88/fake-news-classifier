@@ -1,0 +1,10 @@
+artifact_location: file:///Users/anselm/Desktop/fake-news-classifier/src/mlruns/0/models/m-961b918f376e49518bc21bcb2e21e734/artifacts
+creation_timestamp: 1753472911028
+experiment_id: '0'
+last_updated_timestamp: 1753472912674
+model_id: m-961b918f376e49518bc21bcb2e21e734
+model_type: null
+name: model
+source_run_id: e9eb04f1eeb94182a3db1d1d24aca340
+status: 2
+status_message: null
